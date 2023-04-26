@@ -1,5 +1,5 @@
 
-'''C++
+```C++
 vector<int> solution(vector<string> name, vector<int> yearning, vector<vector<string>> photo) {
     vector<int> answer;
     int sum = 0;
@@ -17,4 +17,4 @@ vector<int> solution(vector<string> name, vector<int> yearning, vector<vector<st
     }
     return answer;
 }
-'''
+```
