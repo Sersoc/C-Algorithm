@@ -2,7 +2,8 @@
 ===========
 # 해당 문제는 탐욕 알고리즘을 통해 푸는 문제이다.
 곡괭이에 따라 광물을 캐는 피로도가 다른데 이를 가장 적은 피로도로 캤을 때의 피로도를 구하는 문제이다.
-https://school.programmers.co.kr/learn/courses/30/lessons/172927
+https://school.programmers.co.kr/learn/courses/30/lessons/172927(문제 링크)
+
 ![image](https://github.com/Sersoc/C-Algorithm/assets/45021157/6a0a1688-732e-4ca7-acf5-605c8772dd34)
 
 탐욕 알고리즘이란 현재 시점에서 최적의 결과만을 골라 최종적인 답을 도출하는 알고리즘이다.
